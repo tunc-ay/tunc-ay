@@ -22,6 +22,8 @@
 |Oct 1999 - July 2004 | B.A. - Philosophy @ [Bogazici University](https://www.boun.edu.tr) |	
 
 ### Certifications
+* Fundamentals of API Documentation @ Tech Writer's Tribe
+* Learn API Technical Writing 2: REST for Writers @ Udemy
 * Git and GitHub for Writers @ Udemy
 * Technical Writing: How to Write Software Documentation @ Udemy
 * The Complete 2020 Web Development Bootcamp @Udemy
