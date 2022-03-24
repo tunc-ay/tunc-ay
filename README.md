@@ -6,8 +6,8 @@
 ### Work Experience
 | Year | Title |
 | ---- | ---- |
-|Mar 2021 - ...	| Senior Technical Writer @ [Netsparker](https://www.netsparker.com)|
-|Jan 2020 - Mar 2021 | Technical Writer @ [Netsparker](https://www.netsparker.com)|
+|Mar 2021 - ...	| Senior Technical Writer @ [Invicti](https://www.invicti.com)|
+|Jan 2020 - Mar 2021 | Technical Writer @ [Invicti](https://www.invicti.com)|
 |Nov 2018 - Jan 2020 | Freelance Content Editor |
 |Aug 2014 - Jan 2020 | Contributing Editor @ [SiberBulten](http://siberbulten.com) |
 |Dec 2016 - Nov 2019 | Ghostwriter @ [LifebookUK](https://www.lifebookuk.com/)|
