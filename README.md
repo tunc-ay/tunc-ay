@@ -31,5 +31,5 @@
 
 ### Languages
 * English: Fluent
-* Turkish: Fluent
+* Turkish: Native
 * Japanese: Upper Beginner
