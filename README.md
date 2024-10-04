@@ -1,12 +1,13 @@
 ## Tuncay Kayaoglu
-### Senior Technical Writer
+### Lead Technical Writer
 
 ## Resume
 
 ### Work Experience
 | Year | Title |
 | ---- | ---- |
-|Mar 2021 - ...	| Senior Technical Writer @ [Invicti](https://www.invicti.com)|
+|June 2023 - ...	| Senior Technical Writer @ [Invicti](https://www.invicti.com)|
+|Mar 2021 - June 2023	| Senior Technical Writer @ [Invicti](https://www.invicti.com)|
 |Jan 2020 - Mar 2021 | Technical Writer @ [Invicti](https://www.invicti.com)|
 |Nov 2018 - Jan 2020 | Freelance Content Editor |
 |Aug 2014 - Jan 2020 | Contributing Editor @ [SiberBulten](http://siberbulten.com) |
@@ -23,6 +24,8 @@
 |Oct 1999 - July 2004 | B.A. - Philosophy @ [Bogazici University](https://www.boun.edu.tr) |	
 
 ### Certifications
+* Advanced Prompt Engineering @ Coursera
+* Programming for Everybody (Getting Started w ith Python) @ Coursera - University of Michigan
 * Fundamentals of API Documentation @ Tech Writer's Tribe
 * Learn API Technical Writing 2: REST for Writers @ Udemy
 * Git and GitHub for Writers @ Udemy
@@ -32,4 +35,5 @@
 ### Languages
 * English: Fluent
 * Turkish: Native
+* Germany: Beginner
 * Japanese: Upper Beginner
